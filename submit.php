@@ -16,7 +16,7 @@
  
   if(($password =='Dubinek')&& ($nickname =='Fildasek')){
      echo "Vaše uživatelské jméno i heslo je správně"; }
-
+  else {echo "vaše údaje jsou neplatné";}
  ?>
  
 </body>
